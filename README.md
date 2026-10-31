@@ -116,8 +116,8 @@ Docker Compose starts the MySQL database, FastAPI backend, and React frontend.
 | Service | URL |
 |---|---|
 | Frontend Dashboard | http://localhost:8080|
-| FastAPI Backend | http://localhost:8000 |
-| API Documentation | http://localhost:8000/docs |
+| FastAPI Backend | http://127.0.0.1:8000 |
+| API Documentation | http://127.0.0.1:8000/docs |
 
 ## Database
 The project uses MySQL 8.0.
