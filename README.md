@@ -144,3 +144,7 @@ ABES Engineering College
 
 ## Project Repository
 [ATM Cash Demand Predictor – GitHub](https://github.com/nagarhimanshi018-lang/ATM-Cash-Demand-Predictor)
+
+## 🚀 Live Demo
+**Live Application:** https://joseph-phones-harper-hampshire.trycloudflare.com
+**API Documentation:** https://mission-throughout-historic-norfolk.trycloudflare.com/docs
